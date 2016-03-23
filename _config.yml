@@ -1,0 +1,28 @@
+name: South Africa 2016
+favicon: null
+layout_spectrum: 0.49822789523750544
+typography_spectrum: 0.02786213904619217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.22371928673237562
+  lightness: 0.48285449761897326
+  saturation: 0.8312015340197831
+  rhythmicContrast: 0.5248871350195259
+purpose: []
