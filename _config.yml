@@ -1,28 +1,40 @@
-name: South Africa 2016
-favicon: null
-layout_spectrum: 0.49822789523750544
-typography_spectrum: 0.02786213904619217
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.22371928673237562
-  lightness: 0.48285449761897326
-  saturation: 0.8312015340197831
-  rhythmicContrast: 0.5248871350195259
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8312015340197831
+  brandStrength: 0.9165261
+  lightness: 0.4828544976189733
+  brandColors:
+    - '#0E0C03'
+    - '#FFF200'
+    - '#5C651F'
+    - '#B3BD77'
+    - '#7F546F'
+  rhythmicContrast: 0.5248871350195259
+typography_spectrum: 0.8988196
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9291737
+favicon: null
+name: South Africa 2016
